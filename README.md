@@ -8,4 +8,4 @@
 kiprotich-denis/kiprotich-denis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Denis Kiprotich [Twitter](https://twitter.com/denistoo95)
+- Denis Kiprotich [Twitter](https://twitter.com/denistoo95)
